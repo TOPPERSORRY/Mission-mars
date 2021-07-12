@@ -22,7 +22,7 @@ function preload(){
  gameOverImage = loadImage("Images/gameover.png")
 sound1 = loadSound("Images/sound1.wav")
 congoImage = loadImage("Images/congo.png")
-congoSound = loadSound("Images/congoSound.wav")
+
 }
 function setup() {
   createCanvas(800,500);
